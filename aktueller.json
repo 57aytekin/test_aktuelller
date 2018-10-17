@@ -1,0 +1,23 @@
+{"aktueller":[
+	{
+		"id":1,
+		"isim":"A101",
+		"marka_logo":"a101",
+		"aktuel_resim":"aktuel101",
+		"tarih":"17.10.2018",
+	},
+	{
+		"id":2,
+		"isim":"BİM",
+		"marka_logo":"bim",
+		"aktuel_resim":"aktuelbim",
+		"tarih":"17.10.2018",
+	},
+	{
+		"id":3,
+		"isim":"ŞOK",
+		"marka_logo":"sok",
+		"aktuel_resim":"aktuelsok",
+		"tarih":"17.10.2018",
+	}
+]}

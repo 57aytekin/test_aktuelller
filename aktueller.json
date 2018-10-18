@@ -3,21 +3,21 @@
 		"id":1,
 		"isim":"A101",
 		"marka_logo":"a101",
-		"aktuel_resim":"aktuel101",
+		"aktuel_resim":"http://aktuel-urunler.com/wp-diger/uploads/2018/03/A101-Akt%C3%BCel-Otomobil-Araba-%C3%9Cr%C3%BCnleri-29-Mart-2018.jpg",
 		"tarih":"17.10.2018"
 	},
 	{
 		"id":2,
 		"isim":"BİM",
 		"marka_logo":"bim",
-		"aktuel_resim":"aktuelbim",
+		"aktuel_resim":"https://www.aktuelbilgiler.com/wp-content/uploads/2018/10/bim-19-ekim-aktuel-sayfa-2-700x1045.jpg",
 		"tarih":"17.10.2018"
 	},
 	{
 		"id":3,
 		"isim":"ŞOK",
 		"marka_logo":"sok",
-		"aktuel_resim":"aktuelsok",
+		"aktuel_resim":"https://biaktuel.com/wp-content/uploads/2018/10/sok-aktuel-17-ekim-2018-katalogu-karaoke-mikrofonu-1.jpg",
 		"tarih":"17.10.2018"
 	}
 ]}
